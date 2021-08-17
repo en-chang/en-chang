@@ -104,72 +104,108 @@ body {font-size:20px;}
   </div>
 
   <!-- Project Cards -->
-  <div class="w3-row-padding">
-    <!-- face-finder -->
-    <div class="w3-col m6 w3-margin-bottom w3-padding-16">
-      <div class="w3-white">
-        <video style="width:100%" onmouseover="this.play()" onmouseout="this.pause();this.currentTime=0;" autoplay muted controls>
-          <source src="./portfolio_files/" type="video/mp4">
-          Your browser does not support HTML video.
-        </video>
-        <div class="w3-container">
-          <h3>Face Detection Web App</h3>
-          <p class="w3-opacity" style="display: inline;">Link:</p>
-          <a class="w3-opacity" target="_blank" rel="noopener noreferrer" href="https://face-finder-enchangcs.herokuapp.com">
-            face-finder
-          </a>
-          <p class="w3-padding-16">Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</p>
+  <div class="w3-container">
+    <div class="cards">
+      <!-- face-finder -->
+      <div class="w3-padding-16">
+        <div class="w3-white" style="height: 100%;">
+          <video style="width:100%" onmouseover="this.play()" onmouseout="this.pause();this.currentTime=0;" autoplay muted controls>
+            <source src="./files/videos/face-finder-audioless.mov" type="video/mp4">
+            Your browser does not support HTML video.
+          </video>
+          <div class="w3-container">
+            <h3>Face Detection Web App</h3>
+            <p class="w3-opacity" style="display: inline;">Link:</p>
+            <a class="w3-opacity" target="_blank" rel="noopener noreferrer" href="https://face-finder-enchangcs.herokuapp.com">
+              face-finder
+            </a>
+            <div class="w3-padding-16" style="font-size: 18px;">
+              <p>
+                ● Created a full-stack single page application that detects faces via Clarifai’s Machine Learning Face Detection Model.
+              </p>
+              <p>
+                ● Applied standard security measures using bcrypt.js to encrypt valuable user data.
+              </p>
+              <p>
+                ● Implemented session management through JSON Web Tokens and Redis to create a more convenient user experience.
+              </p>
+            </div>
+          </div>
         </div>
       </div>
-    </div>
-    <!-- iOS-Metronome -->
-    <div class="w3-col m6 w3-margin-bottom w3-padding-16">
-      <div class="w3-white">
-        <video style="width:100%" onmouseover="this.play()" onmouseout="this.pause();this.currentTime=0;" autoplay muted controls>
-          <source src="./portfolio_files/" type="video/mp4">
-          Your browser does not support HTML video.
-        </video>
-        <div class="w3-container">
-          <h3>Metronome iOS App</h3>
-          <p class="w3-opacity" style="display: inline;">Link:</p>
-          <a class="w3-opacity" target="_blank" rel="noopener noreferrer" href="https://github.com/en-chang/iOS-Metronome">
-            iOS-Metronome
-          </a>
-          <p class="w3-padding-16">Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</p>
+      <!-- iOS-Metronome -->
+      <div class="w3-padding-16">
+        <div class="w3-white" style="height: 100%;">
+          <video style="width:100%" onmouseover="this.play()" onmouseout="this.pause();this.currentTime=0;" autoplay muted controls>
+            <source src="./files/videos/iOS-Metronome-audioless.mov" type="video/mp4">
+            Your browser does not support HTML video.
+          </video>
+          <div class="w3-container">
+            <h3>Metronome iOS App</h3>
+            <p class="w3-opacity" style="display: inline;">Link:</p>
+            <a class="w3-opacity" target="_blank" rel="noopener noreferrer" href="https://github.com/en-chang/iOS-Metronome">
+              iOS-Metronome
+            </a>
+            <div class="w3-padding-16" style="font-size: 18px;">
+              <p>
+                ● Designed and developed an iOS application that would create a metronome playlist for musicians.
+              </p>
+              <p>
+                ● Utilized GetSongbpm API to search for song data and AudioKit to fully customize metronome audio.
+              </p>
+            </div>
+          </div>
         </div>
       </div>
-    </div>
-    <!-- imdb-data -->
-    <div class="w3-col m6 w3-margin-bottom w3-padding-16">
-      <div class="w3-white">
-        <video style="width:100%" onmouseover="this.play()" onmouseout="this.pause();this.currentTime=0;" autoplay muted controls>
-          <source src="./portfolio_files/" type="video/mp4">
-          Your browser does not support HTML video.
-        </video>
-        <div class="w3-container">
-          <h3>IMDb Data Modeling</h3>
-          <p class="w3-opacity" style="display: inline;">Link:</p>
-          <a class="w3-opacity" target="_blank" rel="noopener noreferrer" href="https://github.com/en-chang/imdb-data">
-            imdb-data
-          </a>
-          <p class="w3-padding-16">Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</p>
+      <!-- imdb-data -->
+      <div class="w3-padding-16">
+        <div class="w3-white" style="height: 100%;">
+          <video style="width:100%" onmouseover="this.play()" onmouseout="this.pause();this.currentTime=0;" autoplay muted controls>
+            <source src="./files/videos/imdb-data-audioless.mov" type="video/mp4">
+            Your browser does not support HTML video.
+          </video>
+          <div class="w3-container">
+            <h3>IMDb Data Modeling</h3>
+            <p class="w3-opacity" style="display: inline;">Link:</p>
+            <a class="w3-opacity" target="_blank" rel="noopener noreferrer" href="https://github.com/en-chang/imdb-data">
+              imdb-data
+            </a>
+            <div class="w3-padding-16" style="font-size: 18px;">
+              <p>
+                ● Led university project, teaching software development processes, git flow, and general best practices.
+              </p>
+              <p>
+                ● Performed transformations on IMDb data to meet normalized standards via Apache Beam and Airflow.
+              </p>
+              <p>
+                ● Created data visualizations and performed cross-dataset queries with a secondary dataset, Bollywood DB.
+              </p>
+            </div>
+          </div>
         </div>
       </div>
-    </div>
-    <!-- robofriends -->
-    <div class="w3-col m6 w3-margin-bottom w3-padding-16">
-      <div class="w3-white">
-        <video style="width:100%" onmouseover="this.play()" onmouseout="this.pause();this.currentTime=0;" autoplay muted controls>
-          <source src="./portfolio_files/" type="video/mp4">
-          Your browser does not support HTML video.
-        </video>
-        <div class="w3-container">
-          <h3>Robot Search Web App</h3>
-          <p class="w3-opacity" style="display: inline;">Link:</p>
-          <a class="w3-opacity" target="_blank" rel="noopener noreferrer" href="https://en-chang.github.io/robofriends">
-            robofriends
-          </a>
-          <p class="w3-padding-16">Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</p>
+      <!-- robofriends -->
+      <div class="w3-padding-16">
+        <div class="w3-white" style="height: 100%;">
+          <video style="width:100%" onmouseover="this.play()" onmouseout="this.pause();this.currentTime=0;" autoplay muted controls>
+            <source src="./files/videos/robofriends-audioless.mov" type="video/mp4">
+            Your browser does not support HTML video.
+          </video>
+          <div class="w3-container">
+            <h3>Robot Search Web App</h3>
+            <p class="w3-opacity" style="display: inline;">Link:</p>
+            <a class="w3-opacity" target="_blank" rel="noopener noreferrer" href="https://en-chang.github.io/robofriends">
+              robofriends
+            </a>
+            <div class="w3-padding-16" style="font-size: 18px;">
+              <p>
+                ● Experimented with Jest and CircleCI to practice real-world development production processes.
+              </p>
+              <p>
+                ● Leveraged Redux to handle an intermediate application’s state flow system.
+              </p>
+            </div>
+          </div>
         </div>
       </div>
     </div>
