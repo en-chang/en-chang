@@ -1,0 +1,2 @@
+files/videos/ filter=lfs diff=lfs merge=lfs -text
+files/videos/** filter=lfs diff=lfs merge=lfs -text
