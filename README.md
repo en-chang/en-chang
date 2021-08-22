@@ -2,6 +2,10 @@
 
 https://en-chang.github.io/en-chang
 
+#### Also feel free to check out my LinkedIn!
+
+https://www.linkedin.com/in/en-chang
+
 ## Education
 
 * I graduated from The University of Texas at Austin class of 2020.
