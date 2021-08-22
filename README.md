@@ -1,4 +1,4 @@
-# Head over to my portfolio to see a quick video about me!
+# Check out my portfolio!
 
 https://en-chang.github.io/en-chang
 
