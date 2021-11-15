@@ -1,25 +1,16 @@
-# Check out my portfolio!
-
-https://en-chang.github.io/en-chang
-
-#### Also feel free to check out my LinkedIn!
-
-https://www.linkedin.com/in/en-chang
-
 ## Education
 
-* I graduated from The University of Texas at Austin class of 2020.
-  * I got a Bachelor of Science degree in Communication Studies, focusing on Corporate Communications
-  * I completed the Computer Science Certificate, titled Elements of Computing.
+- I graduated from The University of Texas at Austin class of 2020
+  - I got a Bachelor of Science degree in Communication Studies, focusing on Corporate Communications
+  - I completed the Computer Science Certificate, titled Elements of Computing
 
-## Goals
+## Career
 
-* I want to start my professional career as a developer.
-* I want to become a Senior Developer in the near future.
+- Software Engineer at Dropoff in Austin
 
 ### Interests
 
-* I do Calisthenics.
-* Fan of basketball, watching definitely not playing.
-* I like to make some music on the side for fun.
-* I'm familiar with Adobe's products like Premiere, Animate, and Photoshop.
+- I do Calisthenics
+- Fan of basketball, watching definitely not playing
+- I like to make some music on the side for fun
+- I'm familiar with Adobe's products like Premiere, Animate, and Photoshop
