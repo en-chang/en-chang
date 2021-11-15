@@ -1,12 +1,12 @@
+## Career
+
+- Software Engineer at Dropoff in Austin since October 2021
+
 ## Education
 
 - I graduated from The University of Texas at Austin class of 2020
   - I got a Bachelor of Science degree in Communication Studies, focusing on Corporate Communications
   - I completed the Computer Science Certificate, titled Elements of Computing
-
-## Career
-
-- Software Engineer at Dropoff in Austin
 
 ### Interests
 
