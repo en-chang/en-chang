@@ -1,6 +1,6 @@
 ## Career
 
-- Software Engineer at Dropoff in Austin since October 2021
+- Software Engineer at Dropoff in Austin from October 2021 to January 2023
 
 ## Education
 
